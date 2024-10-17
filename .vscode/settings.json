@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "**/.devenv.*": true,
+    "**/dist/": false
+  }
+}
