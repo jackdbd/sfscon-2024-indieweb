@@ -1,0 +1,37 @@
+.box {
+  padding: var(--space, 1em) !important;
+}
+
+/* https://every-layout.dev/layouts/icon/ */
+.icon {
+  display: inline;
+  /* outline: 1px solid red; */
+}
+
+/* https://every-layout.dev/layouts/imposter/ */
+.imposter {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* ↓ Reposition so the center of the element
+    is the center of the positioning container */
+  transform: translate(
+    var(--offset-left-percent, -50%),
+    var(--offset-top-percent, -50%)
+  );
+}
+
+/* https://every-layout.dev/layouts/stack/ */
+.stack {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.stack > *:not(.position-absolute) {
+  margin-block: 0;
+}
+
+.stack > * + *:not(.position-absolute) {
+  margin-block-start: var(--space, 1.5rem);
+}

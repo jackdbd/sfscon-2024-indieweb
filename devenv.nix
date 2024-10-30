@@ -39,12 +39,7 @@
     zathura # PDF reader
   ];
 
-  pre-commit.hooks = {
-    prettier = {
-      enable = false;
-      excludes = ["slides.md"];
-    };
-  };
+  pre-commit.hooks = {};
 
   scripts = {
     build.exec = "npx slidev build";

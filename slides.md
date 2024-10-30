@@ -46,7 +46,31 @@ src: ./slides/posse.md
 ---
 
 ---
+src: ./slides/why.md
+---
+
+---
+src: ./slides/own-your-domain.md
+---
+
+---
+src: ./slides/own-your-content.md
+---
+
+---
+src: ./slides/own-your-identity.md
+---
+
+---
+src: ./slides/relmeauth.md
+---
+
+---
 src: ./slides/indieauth.md
+---
+
+---
+src: ./slides/indieauth-vs-openid-connect.md
 ---
 
 ---
@@ -54,5 +78,22 @@ src: ./slides/micropub.md
 ---
 
 ---
+src: ./slides/microformats2.md
+---
+
+---
+src: ./slides/syndication.md
+---
+
+---
+src: ./slides/recap.md
+---
+
+---
 src: ./slides/wip.md
 ---
+
+TODOs:
+
+- add script to optimize images (sharp, FFMPEG?)
+- try using the clicker
