@@ -41,7 +41,7 @@
 
   pre-commit.hooks = {
     prettier = {
-      enable = true;
+      enable = false;
       excludes = ["slides.md"];
     };
   };
