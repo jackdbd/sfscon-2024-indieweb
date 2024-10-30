@@ -1,42 +1,28 @@
 ---
 class: pl-15%
-layout: center
+# layout: center
+# layout: full
+# layout: cover
+# layout: intro
+# layout: quote
+# layout: fact
+layout: statement
 title: POSSE
 ---
 
-<h1>POSSE</h1>
+<!-- <h1>POSSE</h1> -->
 
-TODO!!!
-Reclaim your content and self host it.
+<h1><strong class="color:accent">P</strong>ublish <strong class="color:accent">O</strong>n your own <strong class="color:accent">S</strong>ite<br><strong class="color:accent">S</strong>yndicate <strong class="color:accent">E</strong>lsewhere</h1>
 
-**P**ublish **O**n your own **S**ite, **S**yndicate **E**lsewhere
+<!-- Reclaim your content and self host it -->
 
-Why
+<!--
+https://en.wikipedia.org/wiki/Duplicate_content
 
-https://indieweb.org/why
-
-How do we maintain control of our content? The URL. https://youtu.be/X3SrZuH00GQ?si=t5ehXxKr4c9XflmH&t=503
-You want to own the canonical URL, the home base for the content.
-
-```html
-<link
-  rel="canonical"
-  href="https://www.giacomodebidda.com/articles/performance-audit-italian-news-website/"
-/>
-<link
-  rel="canonical"
-  href="https://www.giacomodebidda.com/articles/generate-and-view-har-files/"
-/>
-```
-
-Ecco la parte della talk di Zach in cui parla di POSSE
-https://youtu.be/X3SrZuH00GQ?si=KZzEYZwcZEOkC8rM&t=835
-
-https://youtu.be/X3SrZuH00GQ?si=VrhSjngUJshKC9-k&t=742
+https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls
 
 https://personalsit.es/
-
-https://indieweb.org/silo-quits
+https://youtu.be/X3SrZuH00GQ?si=VrhSjngUJshKC9-k&t=742
 
 own your data is an IndieWeb principle with two key parts:
 
@@ -54,12 +40,6 @@ https://indieweb.org/silo
 https://indieweb.org/monoculture
 
 https://indieweb.org/data_portability
-
-site deaths
-
-https://indieweb.org/site-deaths
-
-https://indieweb.org/acquihire
 
 killed by google
 
@@ -81,7 +61,4 @@ https://youtu.be/X3SrZuH00GQ?si=pZH1UM17OCPEPJ72&t=897
 https://web0.small-web.org/
 
 https://quitsocialmedia.club/
-
-<!--
-Some notes here.
 -->

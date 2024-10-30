@@ -1,23 +1,21 @@
 ---
-class: pl-15%
+# class: pl-15%
 layout: center
-# layout: two-cols
-title: Get a personal domain
+title: Own your domain
 ---
 
-<h1>Get a personal <strong class="color:accent">domain</strong></h1>
+<h1>Own your <strong class="color:accent">domain</strong></h1>
 
 <Transform scale="0.9">
 
 <Citation
   citeHref="https://indiewebify.me/"
   citeText="IndieWebify.Me">
-<template v-slot:quote>
-
-<p slot="quote">
-A personal domain name is an inexpensive, internationally <strong class="color:accent">universal identifier</strong> which gives you more control over your space than other IDs (e.g. email address or phone number.)
-</p>
-</template>
+  <template v-slot:quote>
+    <p slot="quote">
+    A personal domain name is an inexpensive, internationally <strong class="color:accent">universal identifier</strong> which gives you more control over your space than other IDs (e.g. email address or phone number.)
+    </p>
+  </template>
 </Citation>
 
 Why not just a <strong class="color:accent">subdomain</strong>?
@@ -25,12 +23,11 @@ Why not just a <strong class="color:accent">subdomain</strong>?
 <Citation
   citeHref="https://indieweb.org/personal-domain"
   citeText="personal-domain on indieweb.org">
-<template v-slot:quote>
-
-<p slot="quote">
-A subdomain (like <code>example.wordpress.com</code> or <code>example.github.io</code>) <strong class="color:accent">is not something you own</strong>, rather you are at the mercy of the corporation that owns the actual domain name, who thus has ownership and control of all subdomains as well.
-</p>
-</template>
+  <template v-slot:quote>
+    <p slot="quote">
+    A subdomain (like <code>example.wordpress.com</code> or <code>example.github.io</code>) <strong class="color:accent">is not something you own</strong>, rather you are at the mercy of the corporation that owns the actual domain name, who thus has ownership and control of all subdomains as well.
+    </p>
+  </template>
 </Citation>
 
 </Transform>

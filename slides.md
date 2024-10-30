@@ -42,11 +42,11 @@ src: ./slides/speaker.md
 ---
 
 ---
-src: ./slides/posse.md
+src: ./slides/why.md
 ---
 
 ---
-src: ./slides/why.md
+src: ./slides/posse.md
 ---
 
 ---
@@ -63,6 +63,30 @@ src: ./slides/own-your-identity.md
 
 ---
 src: ./slides/relmeauth.md
+---
+
+---
+src: ./slides/h-card.md
+---
+
+---
+src: ./slides/relmeauth-example-1.md
+---
+
+---
+src: ./slides/relmeauth-example-2.md
+---
+
+---
+src: ./slides/relmeauth-example-3.md
+---
+
+---
+src: ./slides/relmeauth-example-4.md
+---
+
+---
+src: ./slides/indielogin.md
 ---
 
 ---
@@ -95,5 +119,5 @@ src: ./slides/wip.md
 
 TODOs:
 
-- add script to optimize images (sharp, FFMPEG?)
+- add script to optimize images (sharp, FFMPEG?), maybe as a pre-commit hook
 - try using the clicker

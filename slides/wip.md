@@ -1,19 +1,15 @@
 ---
-layout: two-cols-header
+layout: two-cols
 ---
-
-This spans both
-
-::left::
 
 # Left
 
-This shows on the left
+<img src="/indiebookclub.png" class="w-100% m-auto" />
 
 ::right::
 
 # Right
 
-This shows on the right
-
 https://indieweb.org/tools
+
+<img src="/indiebookclub-authorization.png" class="w-60% m-auto" />

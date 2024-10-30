@@ -39,7 +39,17 @@
     zathura # PDF reader
   ];
 
-  pre-commit.hooks = {};
+  pre-commit.hooks = {
+    # Disabling the prettier pre-commit altogether seems not to work, so I
+    # explicitly configure prettier to ignore markdown files.
+    prettier = {
+      enable = true;
+      excludes = [
+        "^slides\.md$"
+        "^slides\/.+\.md$"
+      ];
+    };
+  };
 
   scripts = {
     build.exec = "npx slidev build";

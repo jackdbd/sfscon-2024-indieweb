@@ -2,11 +2,9 @@
 
 TODO
 
-- Web Sign In
 - IndieAuth
 - [IndieAuth.com](https://indieauth.com/)
 - [IndieLogin.com](https://indielogin.com/)
-- RelMeAuth
 
 <Citation
   author="Aaron Parecki"
@@ -19,6 +17,10 @@ Every service that spins up an OAuth-enabled API ends up being its own <strong c
 </p>
 </template>
 </Citation>
+
+- <Anchor href="https://github.com/simonw/datasette-indieauth" text="datasette-indieauth" />
+- <Anchor href="IndieLogin.com" text="IndieLogin.com" />
+- <Anchor href="https://github.com/reiterate-app/authorio" text="authorio" />
 
 <!--
 
@@ -39,4 +41,13 @@ In order to avoid registration, we need a solution for the first three bullet po
 Client ID: Every application needs a unique identifier. If we're talking about turning every website into an OAuth provider, we need a way to have globally unique identifiers for every OAuth app. It turns out we already have a mechanism for this: URLs! In this Open Web version of OAuth, client IDs can be the application's URL. For web-based apps, this is straightforward, as it's simply the website the app is running on. For native apps, this can be the application's "about" page.
 
 https://indieweb.org/How_to_set_up_web_sign-in_on_your_own_domain
+
+Acquiescence is an IndieAuth authorization and token endpoint written in Ruby.
+https://github.com/barryf/acquiescence
+
+Selfauth is a self-hosted Authorization Endpoint used to login with a personal URL (as Web sign-in) via IndieAuth. It's written in PHP.
+https://github.com/Inklings-io/selfauth
+
+- https://indieweb.org/authorization-endpoint
+- https://indieweb.org/token-endpoint
 -->

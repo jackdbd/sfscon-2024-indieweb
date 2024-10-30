@@ -5,4 +5,4 @@ export const EMOJI = {
   SUCCESS: "✅",
 };
 
-// other emoji 📢✅🗣️💡📌👉🌟❓
+// other emoji 📢✅🗣️💡📌👉🌟❓🏡👤

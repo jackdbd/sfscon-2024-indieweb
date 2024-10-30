@@ -3,5 +3,9 @@
     "**/.devenv.*": true,
     "**/dist/": false
   },
+  "search.exclude": {
+    "**/devenv.lock": true,
+    "**/package-lock.json": true
+  },
   "svg.preview.background": "editor"
 }
