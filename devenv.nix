@@ -73,7 +73,7 @@
       zathura assets/sfscon-2024-indieweb-presentation-notes.pdf
     '';
     view-slides.exec = ''
-      zathura assets/sfscon-2024-indieweb-presentation.pdf
+      zathura --mode=presentation assets/sfscon-2024-indieweb-presentation.pdf
     '';
   };
 }
