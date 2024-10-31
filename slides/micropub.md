@@ -2,21 +2,7 @@
 
 <Anchor href="https://github.com/getindiekit/indiekit/" text="Indiekit" />
 
-todo
-
-```txt
-GET https://indiebookclub.biz/id
-```
-
-```json
-{
-  "client_id": "https://indiebookclub.biz/id",
-  "client_name": "indiebookclub",
-  "client_uri": "https://indiebookclub.biz/",
-  "logo_uri": "https://indiebookclub.biz/images/book.svg",
-  "redirect_uris": ["https://indiebookclub.biz/auth/callback"]
-}
-```
+Micropub clients can use IndieAuth for authentication.
 
 <!--
 Examples of websites that support Micropub:

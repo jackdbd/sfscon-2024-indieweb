@@ -16,25 +16,30 @@ title: rel=me links
 Option A: `<a rel="me">` in the `<body>`
 
 ```html
-<a href="https://github.com/jackdbd" rel="me">@jackdbd on Github</a>
+<body>
+  <a href="https://github.com/jackdbd"
+     rel="me">@jackdbd on Github</a>
 
-<a href="https://fosstodon.org/jackdbd" rel="me">@jackdbd on Mastodon</a>
+  <a href="https://fosstodon.org/jackdbd"
+     rel="me">@jackdbd on Mastodon</a>
 
-<a href="mailto:me@example.com" rel="me">me@example.com</a>
+  <a href="mailto:me@example.com"
+     rel="me">me@example.com</a>
 
-<a href="sms:+15035551212" rel="me">(503) 555-1212</a>
-
-<a href="/assets/openpgp-pubkey.txt" rel="pgpkey">My OpenPGP public key</a>
+  <a href="/assets/openpgp-pubkey.txt"
+     rel="pgpkey">My OpenPGP public key</a>
+</body>
 ```
 
 Option B: `<link rel="me">` in the `<head>`
 
 ```html
-<link rel="me" href="https://github.com/jackdbd" />
-<link rel="me" href="https://fosstodon.org/@jackdbd" />
-<link rel="me" href="mailto:me@example.com" />
-<link rel="me" href="sms:+15035551212" />
-<link rel="pgpkey" href="/assets/openpgp-pubkey.txt" />
+<head>
+  <link rel="me" href="https://github.com/jackdbd" />
+  <link rel="me" href="https://fosstodon.org/@jackdbd" />
+  <link rel="me" href="mailto:me@example.com" />
+  <link rel="pgpkey" href="/assets/openpgp-pubkey.txt" />
+</head>
 ```
 
 </Transform>
@@ -48,7 +53,6 @@ Option B: `<link rel="me">` in the `<head>`
 - Add your website in your [Github profile](https://github.com/settings/profile)
 - [Verify your identity on Mastodon](https://fosstodon.org/settings/verification)
 - Receive a verification code via email
-- Receive a verification code via SMS
 - Sign a challenge with your OpenPGP private key (e.g. `echo <challenge> | gpg --clearsign --armor`)
 
 Use [indiewebify.me/validate-rel-me](https://indiewebify.me/validate-rel-me/) to validate that your domain name and profiles are linked together.
@@ -59,6 +63,8 @@ Use [indiewebify.me/validate-rel-me](https://indiewebify.me/validate-rel-me/) to
 
 <!--
 https://indieweb.org/rel-me
+
+Note that the OpenPGP key requires `rel="pgpkey"` instead of `rel="me"`.
 
 The HTML (`a` tags in `body` or `link` tags in `head`) must be accessible without executing JavaScript.
 

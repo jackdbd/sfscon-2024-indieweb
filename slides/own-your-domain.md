@@ -35,13 +35,7 @@ Why not just a <strong class="color:accent">subdomain</strong>?
 <!--
 A personal domain is a domain name that you personally own, control, and use to represent yourself on the internet. Getting a personal domain is the first step towards getting on the indieweb, and is therefore a requirement for [IndieMark](https://indieweb.org/IndieMark) Level 0.
 
-> Instead of logging in to websites as "you on Twitter" or "you on Facebook", you should be able to log in as just "you". We should not be relying on Twitter or Facebook to provide our authenticated identities, we should be able to use our own domain names to log in to sites everywhere.
-
-https://indieweb.org/Why_web_sign-in
-
-https://indieweb.org/How_to_set_up_web_sign-in_on_your_own_domain
-
-https://jamesg.blog/2024/02/19/personal-website-ideas/
+What to write on your site? https://jamesg.blog/2024/02/19/personal-website-ideas/
 
 ## A note on WHOIS and domain privacy
 

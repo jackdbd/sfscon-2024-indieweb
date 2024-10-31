@@ -1,5 +1,5 @@
 ---
-# class: pl-15%
+class: pl-15%
 layout: center
 title: Own your identity
 ---
@@ -11,20 +11,12 @@ title: Own your identity
 <Citation
   citeHref="https://indieauth.com/"
   citeText="IndieAuth.com: Sign in with your domain name">
-<template v-slot:quote>
-
-<p slot="quote">
-Instead of logging in to websites as "you on Twitter" or "you on Facebook", you should be able to log in as just "you". We should not be relying on Twitter or Facebook to provide our authenticated identities, we should be able to <strong class="color:accent">use our own domain names to log in</strong> to sites everywhere.
-</p>
-</template>
+  <template v-slot:quote>
+    <p slot="quote">
+    Instead of logging in to websites as "you on Twitter" or "you on Facebook", you should be able to log in as just "you". We should not be relying on Twitter or Facebook to provide our authenticated identities, we should be able to <strong class="color:accent">use our own domain names to log in</strong> to sites everywhere.
+    </p>
+  </template>
 </Citation>
-
-This <strong class="color:accent">mechanism</strong> is called <Anchor href="https://indieweb.org/Web_sign-in" text="Web sign-in" />
-
-Web sign-in can be implemented using these <strong class="color:accent">authentication protocols</strong>:
-
-- RelMeAuth. Easier: rel-me links to your "other profiles" on the web (e.g. at silos) and have them link back.
-- IndieAuth. Harder: Local [IndieAuth provider](https://indieweb.org/IndieAuth#IndieAuth_Providers) support in your own site.
 
 </Transform>
 
@@ -33,9 +25,13 @@ A web sign-in UX MUST not require Javascript in order to function, though it may
 
 Setup Web sign-in for login, sign-in to https://indieweb.org/, and create your user page, linking to your personal domain.
 
-Easy: rel-me links to your "other profiles" on the web (e.g. at silos) and have them link back. How to setup rel-me links.
+1. A website presents a Web sign-in login form to the user
+2. The user enters their personal domain name into the login form
+3. The website verifies that the user has control of that domain (e.g. via RelMeAuth or IndieAuth)
 
-Harder: Local IndieAuth provider support in your own site.
+RelMeAuth. Easier: rel-me links to your "other profiles" on the web (e.g. at silos) and have them link back.
+
+IndieAuth. Harder: Local [IndieAuth provider](https://indieweb.org/IndieAuth#IndieAuth_Providers) support in your own site.
 
 https://indieweb.org/IndieMark
 

@@ -1,28 +1,39 @@
-# IndieAuth
+---
+# class: pl-15%
+layout: center
+# layout: default
+title: IndieAuth
+---
 
-TODO
-
-- IndieAuth
-- [IndieAuth.com](https://indieauth.com/)
-- [IndieLogin.com](https://indielogin.com/)
+<h1>IndieAuth</h1>
 
 <Citation
   author="Aaron Parecki"
   citeHref="https://aaronparecki.com/2018/07/07/7/oauth-for-the-open-web"
   citeText="OAuth for the Open Web">
-<template v-slot:quote>
-
-<p slot="quote">
-Every service that spins up an OAuth-enabled API ends up being its own <strong class="color:accent">isolated system</strong>. For example, if I want to build an app that can read someone's step count from FitBit, I have to first go register as a developer on FitBit's website in order to get API keys to use with their OAuth API.
-</p>
-</template>
+  <template v-slot:quote>
+    <p slot="quote">
+      Every service that spins up an OAuth-enabled API ends up being its own <strong class="color:accent">isolated system</strong>.<br>
+      For example, if I want to build an app that can read someone's step count from FitBit, I have to first go register as a developer on FitBit's website in order to get API keys to use with their OAuth API.
+    </p>
+  </template>
 </Citation>
+
+IndieAuth is:
+
+- an OAuth 2.0 extension that defines an identity layer
+- an authentication protocol alternative to OpenID Connect
+- typically used to obtain an OAuth 2.0 Bearer tokens for Micropub clients
+- used on sites like [indiebookclub.biz](https://indiebookClub.biz/)
+
+<!--
+In IndieAuth the identity is your domain itself.
 
 - <Anchor href="https://github.com/simonw/datasette-indieauth" text="datasette-indieauth" />
 - <Anchor href="IndieLogin.com" text="IndieLogin.com" />
 - <Anchor href="https://github.com/reiterate-app/authorio" text="authorio" />
 
-<!--
+If you’re familiar with writing an OAuth client, then you're familiar with the problem of having to register your client manually with each OAuth provider. IndieAuth uses DNS as a replacement for client registration, thereby eliminating the need for any manual registration with providers.
 
 This post details a few specific challenges with OAuth preventing it from being used by independent websites, as well as the solutions to each.
 https://aaronparecki.com/2018/07/07/7/oauth-for-the-open-web
@@ -50,4 +61,10 @@ https://github.com/Inklings-io/selfauth
 
 - https://indieweb.org/authorization-endpoint
 - https://indieweb.org/token-endpoint
+
+https://aaronparecki.com/2020/12/03/1/indieauth-2020
+
+https://indieauth.spec.indieweb.org/#discovery
+
+indiebookclub is an app for posting books you are reading to your website using Micropub.
 -->

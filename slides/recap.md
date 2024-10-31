@@ -12,5 +12,10 @@ title: Recap
 - 🗣️ Tell everyone about it
 
 <!--
-https://indieweb.org/IndieMark
+
+Useful links:
+
+- https://indiewebify.me/
+- https://indieweb.org/IndieMark
+- https://indieweb.org/Getting_Started
 -->

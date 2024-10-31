@@ -58,15 +58,11 @@ src: ./slides/own-your-content.md
 ---
 
 ---
-src: ./slides/own-your-identity.md
+src: ./slides/web-sign-in.md
 ---
 
 ---
 src: ./slides/relmeauth.md
----
-
----
-src: ./slides/h-card.md
 ---
 
 ---
@@ -86,7 +82,7 @@ src: ./slides/relmeauth-example-4.md
 ---
 
 ---
-src: ./slides/indielogin.md
+src: ./slides/own-your-identity.md
 ---
 
 ---
@@ -98,7 +94,23 @@ src: ./slides/indieauth-vs-openid-connect.md
 ---
 
 ---
+src: ./slides/indieauth-requires-no-client-registration.md
+---
+
+---
+src: ./slides/indieauth-example-1.md
+---
+
+---
+src: ./slides/indieauth-server.md
+---
+
+---
 src: ./slides/micropub.md
+---
+
+---
+src: ./slides/micropub-diagram.md
 ---
 
 ---
@@ -115,6 +127,14 @@ src: ./slides/recap.md
 
 ---
 src: ./slides/wip.md
+---
+
+---
+src: ./slides/h-card.md
+---
+
+---
+src: ./slides/indielogin.md
 ---
 
 TODOs:
