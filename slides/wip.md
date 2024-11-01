@@ -11,5 +11,3 @@ layout: two-cols
 # Right
 
 https://indieweb.org/tools
-
-<img src="/indiebookclub-authorization.png" class="w-60% m-auto" />

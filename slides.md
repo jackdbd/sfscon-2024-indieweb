@@ -46,15 +46,11 @@ src: ./slides/why.md
 ---
 
 ---
-src: ./slides/posse.md
+src: ./slides/silos.md
 ---
 
 ---
 src: ./slides/own-your-domain.md
----
-
----
-src: ./slides/own-your-content.md
 ---
 
 ---
@@ -106,6 +102,10 @@ src: ./slides/indieauth-server.md
 ---
 
 ---
+src: ./slides/own-your-content.md
+---
+
+---
 src: ./slides/micropub.md
 ---
 
@@ -118,7 +118,15 @@ src: ./slides/microformats2.md
 ---
 
 ---
+src: ./publish-syndicate-backfeed.md
+---
+
+---
 src: ./slides/syndication.md
+---
+
+---
+src: ./slides/backfeed.md
 ---
 
 ---
@@ -135,6 +143,10 @@ src: ./slides/h-card.md
 
 ---
 src: ./slides/indielogin.md
+---
+
+---
+src: ./slides/posse.md
 ---
 
 TODOs:

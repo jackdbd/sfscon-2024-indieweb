@@ -8,6 +8,21 @@ title: Why
 
 <Transform scale="0.9">
 
+The web today is much more centralized than it was in the past
+
+<Citation
+  author="wallakfir90"
+  citeHref="https://www.youtube.com/watch?v=nRcdgXlpp1I"
+  citeText="I Miss Forums (And the Decentralized Internet)">
+  <template v-slot:quote>
+    <p slot="quote">
+    I miss when the internet felt like an endless ocean full of passion and creativity. It's now full of corporations, tribalism and people who seek to earn money/push their political views.
+    </p>
+  </template>
+</Citation>
+
+The web today is much more homogenous than it was in the past
+
 <Citation
   author="Dave Heinemann"
   citeHref="https://dheinemann.com/this-is-not-the-web-ive-known/"
@@ -20,66 +35,36 @@ title: Why
   </template>
 </Citation>
 
-[acquihire](https://indieweb.org/acquihire). Then maybe a [site-death](https://indieweb.org/site-deaths)
-
-content silos
-
-the web today is much more centralized than it was in the past
-
-<Citation
-  author="OsakaSyndrome"
-  citeHref="https://www.youtube.com/watch?v=nRcdgXlpp1I"
-  citeText="I Miss Forums (And the Decentralized Internet)">
-  <template v-slot:quote>
-    <p slot="quote">
-    todo
-    </p>
-  </template>
-</Citation>
-
-If you decide to quit social media, consider [writing a public statement about your decision](https://indieweb.org/silo-quits).
 
 </Transform>
 
 <!--
+If you decide to quit social media, consider [writing a public statement about your decision](https://indieweb.org/silo-quits).
 Reclaim your content and self host.
 
-First, using your own domain gives you control over where people find and interact with you online. When you migrate to a new hosting provider or CMS, if your site stays on the same domain, everyone will still find you, regardless of whether they follow your site in a reader, land directly on your permalinks from other sites or search engines, or even type your domain directly into a browser.
+## I Miss Forums (And the Decentralized Internet)
 
-Second, they say that change is the only constant, and web sites are no exception. Whether you stick with a host or CMS for a year, a decade, or a century, you're likely to change something eventually. When you do, you'll need usable access to all of your existing data. This includes export and import, data formats and standards, tools, protocols, permissions, rate limits, and more.
+The channel is by OsakaSyndrome. The quote is from a comment.
 
-https://indieweb.org/own_your_data#Why
+- niche communities in forums
+- everyone's experience was different
+- forums of 50 people
+- less groupthink, more individual thought
 
-https://indieweb.org/why
+- now we have doomscrolling, brainrot
+- if you are using Slack or Discord for communication. Why? Forums are better.
 
-In business terms, an acquihire is an act/instance of one company (typically a silo) buying out another company primarily for the skills and expertise of its staff rather than for the products or services it supplies.
+There are many reasons why you should use the IndieWeb, from controlling your experience on the web (instead of corporate algorithms), to deciding where and when to post your content and where it goes.
+Perhaps you're done with others owning your content, your identity, and your self.
 
-https://indieweb.org/silo
+Common themes among these periods include:
 
-https://indieweb.org/monoculture
+A sense of community and openness, with fewer restrictions and more diverse online content
+The rise of social media platforms, e-commerce, online education, and other industries that transformed the way people lived and worked
+A perceived lack of commercialization and data exploitation, with fewer large corporations dominating the online landscape
+However, some argue that the internet’s “Golden Age” has already passed, citing issues such as:
 
-A silo or web content hosting silo (AKA walled garden), in the context of the IndieWeb, is a centralized web site (like most social media) typically owned by a for-profit corporation that stakes some claim to content contributed to it and restricts access in some way (has walls).
-
-Silos are characterized by the following:
-
-- require you to create an account specific to that site to use it (silo identity)
-- allow you to interact on the site only with others with accounts on the site (silo contacts / social network)
-- allows you to post some type of content (text, hypertext, images, video)
-- and typically one or more of the following:
-  - an access wall that prevents indexing of (at least some of the) content you contribute
-  - a restrictive terms of service (TOS)
-  - claims some ownership or license to any content you create within the silo
-  - restricts your ability to import/export your content, or content about your content (e.g. comments, tags)
-
-killed by google
-
-https://goodbye.domains/
-
-https://killedbygoogle.com/
-
-https://gcemetery.co/
-
-[All social media is inevitably doomed](https://youtu.be/X3SrZuH00GQ?si=Zzh7mG5DSzwnLHkk&t=319).
-
-[incredible journey](https://youtu.be/X3SrZuH00GQ?si=w7z4klPDTSO9pTaX&t=358).
+The homogenization of online content and the rise of social media echo chambers
+The exploitation of personal data for advertising and the consolidation of power among large tech companies
+The decline of online communities and the rise of toxicity and harassment
 -->

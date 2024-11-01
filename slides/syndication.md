@@ -1,10 +1,12 @@
-# Syndicating your content
+---
+# class: pl-15%
+layout: default
+title: Backfeed
+---
 
-TODO!!!
+<h1>Syndicating your content</h1>
 
 webmentions
-
-backfeed
 
 bridgy
 

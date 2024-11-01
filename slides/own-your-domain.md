@@ -1,5 +1,5 @@
 ---
-# class: pl-15%
+class: pl-20% pr-15%
 layout: center
 title: Own your domain
 ---
@@ -34,6 +34,8 @@ Why not just a <strong class="color:accent">subdomain</strong>?
 
 <!--
 A personal domain is a domain name that you personally own, control, and use to represent yourself on the internet. Getting a personal domain is the first step towards getting on the indieweb, and is therefore a requirement for [IndieMark](https://indieweb.org/IndieMark) Level 0.
+
+Using your own domain gives you control over where people find and interact with you online. When you migrate to a new hosting provider or CMS, if your site stays on the same domain, everyone will still find you, regardless of whether they follow your site in a reader, land directly on your permalinks from other sites or search engines, or even type your domain directly into a browser.
 
 What to write on your site? https://jamesg.blog/2024/02/19/personal-website-ideas/
 

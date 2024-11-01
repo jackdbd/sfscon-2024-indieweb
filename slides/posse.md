@@ -24,4 +24,6 @@ https://youtu.be/X3SrZuH00GQ?si=pZH1UM17OCPEPJ72&t=897
 https://web0.small-web.org/
 
 https://quitsocialmedia.club/
+
+Post (on) Own Site Syndicate Elsewhere, it’s not a protocol or even a piece of software, but rather a philosophy. Rather than publishing a post onto someone else’s servers on Twitter or Mastodon or Bluesky or Threads or whichever microblogging service will inevitably come along next, the posts are published locally to a service you control.
 -->

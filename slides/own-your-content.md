@@ -46,4 +46,8 @@ own your data is an IndieWeb principle with two key parts:
 
 1. your data lives primarily under your own domain, and
 2. you are able to retain your access over time.
+
+Also, can you post anything you want? Can you follow anyone you want? E.g. you cannot Facebook-friend someone who is on Twitter.
+
+When you publish of copy of your content on a silo website (e.g. social network), that copy is also called "POSSE copy".
 -->
