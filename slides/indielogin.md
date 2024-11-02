@@ -19,7 +19,3 @@ GET https://indielogin.com/id
   "redirect_uris": ["https://indielogin.com/redirect/indieauth"]
 }
 ```
-
-<!--
-todo
--->

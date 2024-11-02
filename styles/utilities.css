@@ -77,6 +77,10 @@
   color: var(--color-red);
 }
 
+.color\:white {
+  color: var(--color-white);
+}
+
 .color\:zig {
   color: var(--color-zig);
 }
@@ -107,6 +111,14 @@
   --space: 1em;
 }
 
+.space\:1\.5em {
+  --space: 1.5em;
+}
+
+.space\:2em {
+  --space: 2em;
+}
+
 .top\:half-space {
   top: calc(var(--space) / 2);
 }
@@ -126,4 +138,27 @@
 
 #canvas-container canvas {
   width: 100%;
+}
+
+.gradient {
+  --color-start: var(--color-red);
+  --color-end: var(--color-yellow);
+
+  background: var(--color-end); /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    var(--color-start),
+    var(--color-end)
+  );
+  background: linear-gradient(to right, var(--color-start), var(--color-end));
+}
+
+.gradient-text {
+  --color-start: var(--color-red);
+  --color-end: var(--color-yellow);
+
+  background: linear-gradient(var(--color-start), var(--color-end));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
 }

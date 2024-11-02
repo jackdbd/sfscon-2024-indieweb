@@ -14,3 +14,11 @@ title: Recap
 - 🔁 Backfeed (reverse syndicate) content from other platforms to your site
 - 🪪 Use IndieAuth to have full control of your identity
 - ✅ Use [IndieWebify.me](https://indiewebify.me/) and [IndieMark](https://indieweb.org/IndieMark) as checklists to verify your progress
+
+<!--
+See also:
+
+- https://indieweb.guide/
+- https://indiewebguides.org/
+- https://indieweb.org/IndieWebCamps
+-->

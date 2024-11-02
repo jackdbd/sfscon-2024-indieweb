@@ -9,7 +9,3 @@ title: rel=me links
 <img src="/indiebookclub-indieauth.png" class="w-80% m-auto" />
 
 </Transform>
-
-<!--
-todo
--->

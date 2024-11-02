@@ -13,7 +13,7 @@ RelMeAuth uses <code class="color:accent">rel="me"</code> link(s) to match your 
 
 In RelMeAuth an identity can be:
 
-- The account you have with an OAuth 2.0 provider (e.g. your GitHub account)
+- The account you have with an <span class="color:accent">OAuth 2.0 provider</span> (e.g. your GitHub account)
 - Your email
 - Your OpenPGP key
 

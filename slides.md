@@ -134,6 +134,10 @@ src: ./slides/micropub-diagram.md
 ---
 
 ---
+src: ./slides/indieauth-and-micropub-discovery.md
+---
+
+---
 src: ./slides/syndication.md
 ---
 

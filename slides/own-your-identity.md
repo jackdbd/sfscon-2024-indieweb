@@ -1,5 +1,5 @@
 ---
-class: pl-15%
+class: pl-20% pr-15%
 layout: center
 title: Own your identity
 ---
@@ -13,7 +13,7 @@ title: Own your identity
   citeText="IndieAuth.com: Sign in with your domain name">
   <template v-slot:quote>
     <p slot="quote">
-    Instead of logging in to websites as "you on Twitter" or "you on Facebook", you should be able to log in as just "you". We should not be relying on Twitter or Facebook to provide our authenticated identities, we should be able to <span class="color:accent">use our own domain names to log in</span> to sites everywhere.
+    Instead of logging in to websites as "you on Twitter" or "you on Facebook", you should be able to log in as just "you". We should <span class="color:accent">not be relying on Twitter or Facebook to provide our authenticated identities</span>, we should be able to use our own domain names to log in to sites everywhere.
     </p>
   </template>
 </Citation>

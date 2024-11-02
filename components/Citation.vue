@@ -37,9 +37,9 @@ blockquote {
 </style>
 
 <template>
-  <blockquote class="box position-relative" :cite="citeHref">
-    <div class="stack space:1em">
-      <div>
+  <blockquote class="box position-relative space:1.5em" :cite="citeHref">
+    <div class="stack">
+      <div class="">
         <slot name="quote"><p>Quote here</p></slot>
         <p v-if="author" class="author">—{{ author }}</p>
       </div>
