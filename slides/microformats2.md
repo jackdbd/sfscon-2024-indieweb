@@ -8,6 +8,12 @@ title: Microformats2
 
 https://microformats.org/wiki/microformats2
 
+Content hosted under your domain should be presented as semantically marked up HTML+microformats.
+
+https://indieweb.org/syndication_formats
+
+Once you have well-marked-up data under your domain, you should make it available as a feed, and you'll probably want to syndicate it out to 3rd party services.
+
 TODO: show snippets from your blog
 
 ## Add microformats to your content

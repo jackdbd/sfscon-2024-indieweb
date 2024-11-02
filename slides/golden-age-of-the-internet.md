@@ -78,4 +78,8 @@ Some argue that the internet’s “Golden Age” has already passed, citing iss
 - The decline of online communities and the rise of toxicity and harassment
 
 People owned their own domains, crafted personal websites, and connected directly without intermediaries.
+
+TODO: cite Internet Archive Web Machine hack.
+
+https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/
 -->

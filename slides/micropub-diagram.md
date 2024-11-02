@@ -57,3 +57,5 @@ sequenceDiagram
 ```
 
 </Transform>
+
+<!-- https://indieweb.org/obtaining-an-access-token -->

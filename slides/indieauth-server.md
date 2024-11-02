@@ -12,6 +12,10 @@ An <span class="color:accent">IndieAuth server</span> is a set of endpoints: [au
 
 A <span class="color:accent">website/app</span> that implements IndieAuth advertises these endpoints at the URL <code>rel=indieauth-metadata</code>, using [IndieAuth Server Metadata](https://indieauth.spec.indieweb.org/#indieauth-server-metadata) (an extension of OAuth 2.0 Authorization Server Metadata).
 
+```txt
+Link: <https://giacomodebidda.com/.well-known/oauth-authorization-server>; rel="indieauth-metadata"
+```
+
 ```html
 <link rel="indieauth-metadata" href="https://giacomodebidda.com/.well-known/oauth-authorization-server">
 ```

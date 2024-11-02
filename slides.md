@@ -138,6 +138,10 @@ src: ./slides/indieauth-and-micropub-discovery.md
 ---
 
 ---
+src: ./slides/indieauth-and-micropub-discovery-example.md
+---
+
+---
 src: ./slides/syndication.md
 ---
 
