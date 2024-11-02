@@ -13,7 +13,7 @@ title: IndieAuth
   citeText="OAuth for the Open Web">
   <template v-slot:quote>
     <p slot="quote">
-      Every service that spins up an OAuth-enabled API ends up being its own <strong class="color:accent">isolated system</strong>.<br>
+      Every service that spins up an OAuth-enabled API ends up being its own <span class="color:accent">isolated system</span>.<br>
       For example, if I want to build an app that can read someone's step count from FitBit, I have to first go register as a developer on FitBit's website in order to get API keys to use with their OAuth API.
     </p>
   </template>

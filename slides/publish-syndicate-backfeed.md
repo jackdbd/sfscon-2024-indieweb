@@ -1,11 +1,15 @@
 ---
 # class: pl-15%
-layout: default
+layout: fact
 title: Publish, syndicate, backfeed
 ---
 
-<h1>Publish, syndicate, backfeed</h1>
+<h1>Publish<br>Syndicate<br>Backfeed</h1>
 
 <!--
-todo
+<ol>
+  <li class="list-none">Publish</li>
+  <li>Syndicate</li>
+  <li>Backfeed</li>
+</ol>
 -->

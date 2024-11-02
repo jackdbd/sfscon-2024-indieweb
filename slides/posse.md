@@ -10,7 +10,7 @@ layout: statement
 title: POSSE
 ---
 
-<h1><strong class="color:accent">P</strong>ublish <strong class="color:accent">O</strong>n your own <strong class="color:accent">S</strong>ite<br><strong class="color:accent">S</strong>yndicate <strong class="color:accent">E</strong>lsewhere</h1>
+<h1><span class="color:accent">P</span>ublish on your <span class="color:accent">O</span>wn <span class="color:accent">S</span>ite<br><span class="color:accent">S</span>yndicate <span class="color:accent">E</span>lsewhere</h1>
 
 <!--
 https://personalsit.es/

@@ -4,9 +4,13 @@ layout: default
 title: Backfeed
 ---
 
-<h1>Backfeed (reverse syndication)</h1>
+<h1>🔁 Backfeed (reverse syndication)</h1>
+
+<Transform scale="0.9">
 
 todo
+
+</Transform>
 
 <!--
 todo

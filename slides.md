@@ -42,11 +42,19 @@ src: ./slides/speaker.md
 ---
 
 ---
-src: ./slides/why.md
+src: ./slides/golden-age-of-the-internet.md
 ---
 
 ---
 src: ./slides/silos.md
+---
+
+---
+src: ./slides/reclaim-your-content-1.md
+---
+
+---
+src: ./slides/reclaim-your-content-2.md
 ---
 
 ---
@@ -106,19 +114,23 @@ src: ./slides/own-your-content.md
 ---
 
 ---
+src: ./slides/microformats2.md
+---
+
+---
+src: ./slides/h-card.md
+---
+
+---
+src: ./slides/publish-syndicate-backfeed.md
+---
+
+---
 src: ./slides/micropub.md
 ---
 
 ---
 src: ./slides/micropub-diagram.md
----
-
----
-src: ./slides/microformats2.md
----
-
----
-src: ./publish-syndicate-backfeed.md
 ---
 
 ---
@@ -134,11 +146,11 @@ src: ./slides/recap.md
 ---
 
 ---
-src: ./slides/wip.md
+src: ./slides/outro.md
 ---
 
 ---
-src: ./slides/h-card.md
+src: ./slides/wip.md
 ---
 
 ---

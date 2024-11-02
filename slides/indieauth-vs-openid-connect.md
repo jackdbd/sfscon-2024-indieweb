@@ -11,7 +11,7 @@ layout: two-cols
 - Defines 2 [scopes](https://indieweb.org/scope#IndieAuth_Scopes) for the access token
 - Your app can define additional scopes/claims
 - access token, no ID token
-- User's info available at the `/userinfo` endpoint.
+- User's info available at the `/userinfo` endpoint
 - Does not deal with session management, focuses on just returning the user's identifier
 
 ::right::

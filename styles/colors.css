@@ -14,15 +14,18 @@
   --color-venetian-red: #c80815;
   --color-white: #ffffff;
 
-  /* --color-accent: forestgreen; */
-  --color-accent: var(--color-venetian-red);
   --color-fosdem: #ab1b93;
   --color-github: #130f30;
   --color-js: #f7e018;
+  --color-orange: #ff5c00;
+  --color-red: #ff0000;
   --color-reddit: #ff5700;
   /* --color-rust: #b7410e; */
   --color-rust: #000;
   --color-twitter: #1da1f2;
   --color-youtube: #ff0000;
   --color-zig: #f7a41d;
+
+  --color-accent: var(--color-venetian-red);
+  /* --color-accent: var(--color-orange); */
 }

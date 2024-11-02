@@ -15,8 +15,6 @@ title: Speaker
 <div class="my-10 grid grid-cols-[40px_1fr] w-min gap-y-4">
   <ri-github-line class="opacity-50"/>
   <div><a href="https://github.com/jackdbd" target="_blank">jackdbd</a></div>
-  <ri-twitter-line class="opacity-50"/>
-  <div><a href="https://twitter.com/jackdbd" target="_blank">jackdbd</a></div>
   <ri-user-3-line class="opacity-50"/>
   <div><a href="https://www.giacomodebidda.com/" target="_blank">giacomodebidda.com</a></div>
 </div>

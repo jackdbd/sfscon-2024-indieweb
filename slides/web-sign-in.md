@@ -8,9 +8,9 @@ title: Web Sign-in
 
 <Transform scale="0.9">
 
-You can sign in to websites using your domain name. This <strong class="color:accent">mechanism</strong> is called <Anchor href="https://indieweb.org/Web_sign-in" text="Web sign-in" />
+You can sign in to websites using your domain name. This <span class="color:accent">mechanism</span> is called <Anchor href="https://indieweb.org/Web_sign-in" text="Web sign-in" />
 
-Web sign-in can be implemented using these <strong class="color:accent">authentication protocols</strong>:
+Web sign-in can be implemented using these <span class="color:accent">authentication protocols</span>:
 
 - RelMeAuth
 - IndieAuth
@@ -24,7 +24,3 @@ Here is how it works:
 3. The website verifies that the user has control of that domain (e.g. via RelMeAuth or IndieAuth)
 
 </Transform>
-
-<!--
-todo
--->

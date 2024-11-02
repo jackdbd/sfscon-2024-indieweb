@@ -4,11 +4,11 @@ layout: center
 title: Own your content
 ---
 
-<h1>Own your <strong class="color:accent">content</strong></h1>
+<h1>📝 Own your <span class="color:accent">content</span></h1>
 
 <Transform scale="0.9">
 
-<h3><strong class="color:accent">P</strong>ublish <strong class="color:accent">O</strong>n your own <strong class="color:accent">S</strong>ite</h3>
+<h3><span class="color:accent">P</span>ublish <span class="color:accent">O</span>n your own <span class="color:accent">S</span>ite</h3>
 
 You own the [canonical](https://en.wikipedia.org/wiki/Canonical_link_element) URL of your content...
 
@@ -21,7 +21,7 @@ You own the [canonical](https://en.wikipedia.org/wiki/Canonical_link_element) UR
 
 <br>
 
-<h3><strong class="color:accent">S</strong>yndicate <strong class="color:accent">E</strong>lsewhere</h3>
+<h3><span class="color:accent">S</span>yndicate <span class="color:accent">E</span>lsewhere</h3>
 
 ...and publish a copy of your content on other platforms (e.g. social media).
 

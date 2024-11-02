@@ -4,7 +4,7 @@ layout: center
 title: Own your domain
 ---
 
-<h1>Own your <strong class="color:accent">domain</strong></h1>
+<h1>🏡 Own your <span class="color:accent">domain</span></h1>
 
 <Transform scale="0.9">
 
@@ -13,19 +13,19 @@ title: Own your domain
   citeText="IndieWebify.Me">
   <template v-slot:quote>
     <p slot="quote">
-    A personal domain name is an inexpensive, internationally <strong class="color:accent">universal identifier</strong> which gives you more control over your space than other IDs (e.g. email address or phone number.)
+    A personal domain name is an inexpensive, internationally <span class="color:accent">universal identifier</span> which gives you more control over your space than other IDs (e.g. email address or phone number.)
     </p>
   </template>
 </Citation>
 
-Why not just a <strong class="color:accent">subdomain</strong>?
+Why not just a <span class="color:accent">subdomain</span>?
 
 <Citation
   citeHref="https://indieweb.org/personal-domain"
-  citeText="personal-domain on indieweb.org">
+  citeText="personal-domain, on indieweb.org">
   <template v-slot:quote>
     <p slot="quote">
-    A subdomain (like <code>example.wordpress.com</code> or <code>example.github.io</code>) <strong class="color:accent">is not something you own</strong>, rather you are at the mercy of the corporation that owns the actual domain name, who thus has ownership and control of all subdomains as well.
+    A subdomain (like <code>example.wordpress.com</code> or <code>example.github.io</code>) <span class="color:accent">is not something you own</span>, rather you are at the mercy of the corporation that owns the actual domain name, who thus has ownership and control of all subdomains as well.
     </p>
   </template>
 </Citation>

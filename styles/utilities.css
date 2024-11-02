@@ -59,15 +59,22 @@
 
 .color\:accent {
   color: var(--color-accent);
-  /* color: var(--color-zig); */
 }
 
 .color\:js {
   color: var(--color-js);
 }
 
+.color\:orange {
+  color: var(--color-orange);
+}
+
 .color\:primary {
   color: var(--primary-color);
+}
+
+.color\:red {
+  color: var(--color-red);
 }
 
 .color\:zig {

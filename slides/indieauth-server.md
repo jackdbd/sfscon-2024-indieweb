@@ -8,7 +8,7 @@ title: What is an IndieAuth server?
 
 <Transform scale="0.9">
 
-An <span class="color:accent">IndieAuth server</span> is set of endpoints: [authorization endpoint](https://indieauth.spec.indieweb.org/#authorization-endpoint), [token endpoint](https://indieauth.spec.indieweb.org/#token-endpoint), [revocation endpoint](https://indieauth.spec.indieweb.org/#token-revocation), [introspection endpoint](https://indieauth.spec.indieweb.org/#access-token-verification-request), [userinfo endpoint](https://indieauth.spec.indieweb.org/#user-information).
+An <span class="color:accent">IndieAuth server</span> is a set of endpoints: [authorization endpoint](https://indieauth.spec.indieweb.org/#authorization-endpoint), [token endpoint](https://indieauth.spec.indieweb.org/#token-endpoint), [revocation endpoint](https://indieauth.spec.indieweb.org/#token-revocation), [introspection endpoint](https://indieauth.spec.indieweb.org/#access-token-verification-request), [userinfo endpoint](https://indieauth.spec.indieweb.org/#user-information).
 
 A <span class="color:accent">website/app</span> that implements IndieAuth advertises these endpoints at the URL <code>rel=indieauth-metadata</code>, using [IndieAuth Server Metadata](https://indieauth.spec.indieweb.org/#indieauth-server-metadata) (an extension of OAuth 2.0 Authorization Server Metadata).
 

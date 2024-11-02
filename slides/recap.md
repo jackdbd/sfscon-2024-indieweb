@@ -5,17 +5,12 @@ title: Recap
 
 <h1>Recap</h1>
 
-- ✅ Buy a domain
-- ✅ Host a website on it
-- ✅ Publish content on it
-- ✅ Syndicate content to other platforms
-- 🗣️ Tell everyone about it
-
-<!--
-
-Useful links:
-
-- https://indiewebify.me/
-- https://indieweb.org/IndieMark
-- https://indieweb.org/Getting_Started
--->
+- 📖 Read [Getting Started](https://indieweb.org/Getting_Started)
+- 🏡 Buy a domain
+- 🔨 Build a website and host it on your domain
+- 📝 Write your content with microformats2
+- 📰 Publish your content on your domain
+- 📢 Syndicate content to other platforms
+- 🔁 Backfeed (reverse syndicate) content from other platforms to your site
+- 🪪 Use IndieAuth to have full control of your identity
+- ✅ Use [IndieWebify.me](https://indiewebify.me/) and [IndieMark](https://indieweb.org/IndieMark) as checklists to verify your progress
