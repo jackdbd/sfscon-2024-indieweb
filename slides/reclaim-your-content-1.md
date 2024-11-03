@@ -4,4 +4,4 @@ layout: statement
 title: Perhaps you're done with others owning your content, your identity, and your self
 ---
 
-<h1>Perhaps you're done with others owning your content, your identity, and your self</h1>
+<h1 class="gradient-text">Perhaps you're done with others owning your content, your identity, and your self</h1>

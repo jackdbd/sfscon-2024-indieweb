@@ -1,6 +1,7 @@
 const fosdem = /^https:\/\/.*fosdem\.org\/[0-9].+\/.*$/;
 const github = /^https:\/\/github\.com\/.*\/.*$/;
-const indieweb = /^https:\/\/indieweb\.org\/.*$/;
+// const indieweb_org = /^https:\/\/indieweb\.org\/.*$/;
+const indieweb = /^https:\/\/(?:.+spec\.)?indieweb\.org\/.*$/;
 const nodejs = /^https:\/\/nodejs\.org\/.*\/.*$/;
 const reddit = /^https:\/\/www\.reddit\.com\/r\/.*$/;
 const twitter = /^https:\/\/twitter\.com\/.*$/;

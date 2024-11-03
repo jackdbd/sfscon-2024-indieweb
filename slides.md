@@ -122,10 +122,6 @@ src: ./slides/h-card.md
 ---
 
 ---
-src: ./slides/publish-syndicate-backfeed.md
----
-
----
 src: ./slides/micropub.md
 ---
 
@@ -150,23 +146,23 @@ src: ./slides/backfeed.md
 ---
 
 ---
+src: ./slides/receiving-webmentions.md
+---
+
+---
+src: ./slides/fetching-webmentions.md
+---
+
+---
+src: ./slides/sending-webmentions.md
+---
+
+---
 src: ./slides/recap.md
 ---
 
 ---
 src: ./slides/outro.md
----
-
----
-src: ./slides/wip.md
----
-
----
-src: ./slides/indielogin.md
----
-
----
-src: ./slides/posse.md
 ---
 
 TODOs:

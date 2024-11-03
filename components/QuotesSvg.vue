@@ -1,7 +1,7 @@
 <style scoped>
 .quote {
   fill: var(--color-accent);
-  fill-opacity: 0.5;
+  fill-opacity: 0.75;
 }
 </style>
 

@@ -141,23 +141,24 @@
 }
 
 .gradient {
-  --color-start: var(--color-red);
+  --color-start: var(--color-white);
   --color-end: var(--color-yellow);
 
   background: var(--color-end); /* fallback for old browsers */
   background: -webkit-linear-gradient(
-    to right,
+    to top,
     var(--color-start),
     var(--color-end)
   );
-  background: linear-gradient(to right, var(--color-start), var(--color-end));
+  /* rgba(255, 177, 0, 0.95) */
+  background: linear-gradient(to top, var(--color-start), var(--color-end));
 }
 
 .gradient-text {
   --color-start: var(--color-red);
-  --color-end: var(--color-yellow);
+  --color-end: var(--color-pineapple-yellow);
 
-  background: linear-gradient(var(--color-start), var(--color-end));
+  background: linear-gradient(to bottom, var(--color-start), var(--color-end));
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;

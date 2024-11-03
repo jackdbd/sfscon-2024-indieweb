@@ -19,11 +19,11 @@ title: Speaker
   <div><a href="https://www.giacomodebidda.com/" target="_blank">giacomodebidda.com</a></div>
 </div>
 
-<!-- <img src="/avatar.jpg" class="rounded-full w-40 abs-tr mt-16 mr-12" /> -->
+<img src="/avatar.jpg" class="rounded-full w-40 abs-tr mt-16 mr-12" />
 
 <!-- <img src="/gcp-associate-badge.png" class="w-40 abs-br mb-12 mr-56" /> -->
 
-<!-- <img src="/gcp-professional-badge.png" class="w-40 abs-br mb-12 mr-12" /> -->
+<img src="/gcp-professional-badge.png" class="w-40 abs-br mb-12 mr-12" />
 
 <!--
 Useful links:
