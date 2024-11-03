@@ -1,5 +1,6 @@
 ---
 layout: two-cols
+titie: IndieAuth VS OpenID Connect
 ---
 
 # IndieAuth

@@ -1,7 +1,7 @@
 ---
 # class: pl-15%
 layout: center
-title: rel=me links
+title: Authenticating with IndieAuth on indiebookclub.biz
 ---
 
 <Transform scale="0.9">

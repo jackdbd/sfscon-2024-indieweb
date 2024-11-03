@@ -4,7 +4,7 @@ layout: center
 title: Web Sign-in
 ---
 
-<h1>🔐 Web Sign-in</h1>
+<h1>🌐 Web Sign-in</h1>
 
 <Transform scale="0.9">
 

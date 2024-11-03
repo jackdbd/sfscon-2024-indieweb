@@ -1,7 +1,7 @@
 ---
 class: mt-0% pt-0% ml-8% pl-0%
 layout: full
-title: Micropub
+title: Micropub sequence diagram
 ---
 
 <Transform scale="0.9">

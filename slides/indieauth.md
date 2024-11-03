@@ -1,11 +1,10 @@
 ---
 # class: pl-15%
 layout: center
-# layout: default
 title: IndieAuth
 ---
 
-<h1>IndieAuth</h1>
+<h1>🔐 IndieAuth</h1>
 
 <Citation
   author="Aaron Parecki"

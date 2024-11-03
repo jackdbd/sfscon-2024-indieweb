@@ -5,7 +5,7 @@ layout: center
 title: RelMeAuth
 ---
 
-<h1>RelMeAuth</h1>
+<h1>🔐 RelMeAuth</h1>
 
 <Transform scale="0.9">
 

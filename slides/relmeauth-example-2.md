@@ -1,7 +1,7 @@
 ---
 # class: pl-15%
 layout: center
-title: "Example: IndieWeb.org"
+title: Authenticating with RelMeAuth on IndieWeb.org
 ---
 
 <h1>Example: IndieWeb.org</h1>

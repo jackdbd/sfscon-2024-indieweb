@@ -1,8 +1,7 @@
 ---
 # class: pl-15%
 layout: center
-# layout: default
-title: IndieAuth
+title: IndieAuth requires no OAuth 2.0 client registration
 ---
 
 <h1>No OAuth 2.0 client registration</h1>

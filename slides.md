@@ -106,7 +106,7 @@ src: ./slides/indieauth-example-1.md
 ---
 
 ---
-src: ./slides/indieauth-server.md
+src: ./slides/indieauth-how-it-works.md
 ---
 
 ---
@@ -119,6 +119,10 @@ src: ./slides/microformats2.md
 
 ---
 src: ./slides/h-card.md
+---
+
+---
+src: ./slides/h-entry.md
 ---
 
 ---
