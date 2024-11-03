@@ -1,4 +1,13 @@
-# h-card
+---
+# class: pl-15% pr-10%
+# layout: center
+layout: default
+title: h-card
+---
+
+<h1>h-card</h1>
+
+<Transform scale="0.9">
 
 Update your index.html home page to include your basic information in an h-card. This h-card can be as simple as your name.
 
@@ -13,6 +22,8 @@ Why add my basic contact information in an h-card?
 This helps with providing authorship information for anything you publish and link back to your home page with rel-author.
 
 Validate your `h-card` here: https://indiewebify.me/validate-h-card/
+
+</Transform>
 
 <!--
 Check the u-url class used here.

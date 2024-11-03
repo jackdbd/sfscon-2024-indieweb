@@ -12,6 +12,8 @@ title: Speaker
   <p>I like 🛹 and 🛼</p>
 </div>
 
+BTW I use <NixLogo />
+
 <div class="my-10 grid grid-cols-[40px_1fr] w-min gap-y-4">
   <ri-github-line class="opacity-50"/>
   <div><a href="https://github.com/jackdbd" target="_blank">jackdbd</a></div>

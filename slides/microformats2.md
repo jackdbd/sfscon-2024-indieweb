@@ -1,10 +1,12 @@
 ---
-class: pl-15%
+# class: pl-15%
 layout: center
 title: Microformats2
 ---
 
 <h1>Microformats2</h1>
+
+<Transform scale="0.9">
 
 https://microformats.org/wiki/microformats2
 
@@ -25,3 +27,5 @@ You can use the h-entry validator to verify that your recent post has validate y
 Why? This will allow other people's software to easily read and understand your content. This is useful for a variety of things like recognizing comments, likes, reposts, and displaying reply-contexts for your posts.
 
 https://indieweb.org/Getting_Started#IndieWeb_self-starters
+
+</Transform>

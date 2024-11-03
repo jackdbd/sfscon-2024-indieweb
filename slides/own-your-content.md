@@ -25,8 +25,6 @@ You own the <Anchor href="https://en.wikipedia.org/wiki/Canonical_link_element" 
 
 ...and publish a copy of your content on other platforms (e.g. social media).
 
-TODO: show example of syndicating content to LinkedIn.
-
 </Transform>
 
 <!--

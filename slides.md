@@ -164,8 +164,3 @@ src: ./slides/recap.md
 ---
 src: ./slides/outro.md
 ---
-
-TODOs:
-
-- add script to optimize images (sharp, FFMPEG?), maybe as a pre-commit hook
-- try using the clicker
