@@ -4,7 +4,8 @@ layout: fact
 title: Thanks
 ---
 
-<h1 class="gradient-text">Thanks</h1>
+<h1>Thanks</h1>
+<!-- <h1 class="gradient-text">Thanks</h1> -->
 
 <Anchor href="https://github.com/jackdbd/sfscon-2024-indieweb" text="jackdbd/sfscon-2024-indieweb" />
 
