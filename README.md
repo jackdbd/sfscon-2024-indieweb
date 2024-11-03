@@ -28,7 +28,7 @@ npm run dev
 You can now view the presentation on localhost:
 
 - Play mode: http://localhost:3030/1
-- [Presenter mode](https://sli.dev/guide/presenter-mode.html) mode: http://localhost:3030/presenter/1
+- [Presenter mode](https://sli.dev/guide/ui#presenter-mode): http://localhost:3030/presenter/1
 
 ## PDF export
 
