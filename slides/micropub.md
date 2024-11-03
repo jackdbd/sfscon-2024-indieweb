@@ -8,7 +8,7 @@ title: Micropub
 
 <Transform scale="0.9">
 
-A [protocol](https://micropub.spec.indieweb.org/) for creating, editing, deleting, undeleting a [post](https://indieweb.org/post) on a website hosted on your own domain using third-party clients. And for syndicating that post elsewhere.
+A [protocol](https://micropub.spec.indieweb.org/) for creating, editing, deleting, undeleting a <Anchor href="https://indieweb.org/post" text="post" /> on a website hosted on your own domain using third-party clients. And for syndicating that post elsewhere.
 
 A <span class="color:accent">website/app</span> advertises its micropub endpoint at the URL <code>rel=micropub</code>.
 

@@ -8,7 +8,7 @@ layout: two-cols
 - Identity is <span class="color:accent">portable</span>
 - Identity is tied to DNS
 - OAuth 2.0 clients (aka OAuth apps) require no registration, since client IDs are resolvable URLs
-- Defines 2 [scopes](https://indieweb.org/scope#IndieAuth_Scopes) for the access token
+- Defines 2 <Anchor href="https://indieweb.org/scope#IndieAuth_Scopes" text="scopes" /> for the access token
 - Your app can define additional scopes/claims
 - access token, no ID token
 - User's info available at the `/userinfo` endpoint

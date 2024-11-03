@@ -10,7 +10,7 @@ title: Own your content
 
 <h3><span class="color:accent">P</span>ublish <span class="color:accent">O</span>n your own <span class="color:accent">S</span>ite</h3>
 
-You own the [canonical](https://en.wikipedia.org/wiki/Canonical_link_element) URL of your content...
+You own the <Anchor href="https://en.wikipedia.org/wiki/Canonical_link_element" text="canonical" /> URL of your content...
 
 ```html
 <head>

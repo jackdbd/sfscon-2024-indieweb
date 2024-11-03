@@ -27,7 +27,7 @@ title: Silos
 - restrict your ability to import/export your content (e.g. posts, comments, tags)
 - have an access wall that prevents indexing of (at least some of the) content you contribute
 - have restrictive terms of service (TOS)
-- can be shut down ([acqui-hire](https://en.wikipedia.org/wiki/Acqui-hiring), [site-death](https://indieweb.org/site-deaths)), taking content and permalinks with them
+- can be shut down (<Anchor href="https://en.wikipedia.org/wiki/Acqui-hiring" text="acqui-hire"/>, <Anchor href="https://indieweb.org/site-deaths" text="site-death" />), taking content and permalinks with them
 
 </Transform>
 
