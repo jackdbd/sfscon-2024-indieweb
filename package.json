@@ -14,7 +14,8 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "optimize:public": "npx jampack pack public"
   },
   "dependencies": {
     "@iconify-json/ci": "latest",
@@ -26,6 +27,7 @@
     "vue": "^3.5.12"
   },
   "devDependencies": {
+    "@divriots/jampack": "^0.30.0",
     "playwright-chromium": "1.48.1"
   }
 }
