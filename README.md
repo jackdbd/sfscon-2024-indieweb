@@ -3,6 +3,7 @@
 Slides and code for the talk I gave at [SFSCON 2024](https://www.sfscon.it/).
 
 - 🌐 [sfscon-2024-indieweb.vercel.app](https://sfscon-2024-indieweb.vercel.app/)
+- [Slides on Notist](https://noti.st/jackdbd/k7bZT4/how-to-build-a-website-for-the-indieweb)
 - 🗎 [sfscon-2024-indieweb-presentation.pdf](https://raw.githubusercontent.com/jackdbd/sfscon-2024-indieweb/main/assets/sfscon-2024-indieweb-presentation.pdf)
 
 If you want to see my notes on a slide, click the [Presenter Mode](https://sli.dev/guide/presenter-mode) button or put `presenter/` just before the slide number (e.g. `<HOST>/presenter/5` instead of `<HOST>/5`).
